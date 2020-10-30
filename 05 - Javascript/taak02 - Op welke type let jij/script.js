@@ -12,4 +12,3 @@ console.log(ikBenStemGerechtig);
 console.log(ikMagLegaalAlcoholKopen);
 console.log(ikMagBrommerRijden);
 console.log(SoftwareOntwikkeling);
-
