@@ -23,7 +23,7 @@ console.log(mijnVoornaam);
 Maar stel nou eens dat de waarde van een variabele veranderd:
 
 ```js
-let mijnLeeftijd = 16;
+let mijn Leeftijd = 16;
 mijnLeeftijd = 17;
 console.log(mijnLeeftijd);
 ```
